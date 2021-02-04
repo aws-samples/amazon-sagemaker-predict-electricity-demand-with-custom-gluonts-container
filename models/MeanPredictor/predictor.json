@@ -1,0 +1,1 @@
+{"__kind__": "instance", "args": [], "class": "gluonts.model.trivial.mean.MeanPredictor", "kwargs": {"context_length": 84, "freq": "2H", "num_samples": 100, "prediction_length": 12}}

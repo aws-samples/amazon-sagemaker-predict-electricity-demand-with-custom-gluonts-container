@@ -1,0 +1,1 @@
+gluonts.model.seasonal_naive._predictor.SeasonalNaivePredictor

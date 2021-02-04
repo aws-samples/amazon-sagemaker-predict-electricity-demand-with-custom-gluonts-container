@@ -1,0 +1,7 @@
+numpy==1.18.1
+pandas==1.0.2
+pydantic==1.5.1
+setuptools-git==1.2
+jsonlines==1.2.0
+boto3==1.14.57
+sagemaker==2.5.4
